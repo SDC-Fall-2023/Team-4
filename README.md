@@ -14,7 +14,7 @@ Help Students at UW Madison understand their notes by creating an AI based note 
 Frontend:
 - React
 
-Backend	
+Backend:
 - Flask based Python
 
 Cloud Services:
