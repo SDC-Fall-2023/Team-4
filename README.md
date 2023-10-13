@@ -1,13 +1,14 @@
 _This is just a suggested template for the README of your project, feel free to modify this as you wish_
-# \[Project Title\]
+# \[MadPad\]
 
 ### Team Members
-- Name 1 (Project Lead)
-- Name 2
-- Name 3
+- Eli
+- Ashwin
+- Alice
+- Jaime
 
 ### Project Description
-Describe the goal of your project here.
+Help Students at UW Madison understand their notes by creating an AI based note app that aids students by creating mind maps, easy searchability, grouping, auto generated flashcards, and more…
 
 ### Built With
 - List any languages, frameworks, tools, etc. that your project uses here
