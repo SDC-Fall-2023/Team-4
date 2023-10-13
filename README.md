@@ -1,5 +1,5 @@
 _This is just a suggested template for the README of your project, feel free to modify this as you wish_
-# \[MadPad\]
+# MadPad
 
 ### Team Members
 - Eli
@@ -11,7 +11,15 @@ _This is just a suggested template for the README of your project, feel free to 
 Help Students at UW Madison understand their notes by creating an AI based note app that aids students by creating mind maps, easy searchability, grouping, auto generated flashcards, and more…
 
 ### Built With
-- List any languages, frameworks, tools, etc. that your project uses here
+Frontend:
+- React
+
+Backend:
+- Flask based Python
+
+Cloud Services:
+- OpenAi - ChatGPT 4/3/2/1
+- Firebase
 
 ## Getting Started
 This is where you give instructions on how to run your project
