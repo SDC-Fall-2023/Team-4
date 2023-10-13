@@ -12,9 +12,11 @@ Help Students at UW Madison understand their notes by creating an AI based note 
 
 ### Built With
 Frontend:
-- React 
+- React
+
 Backend	
 - Flask based Python
+
 Cloud Services:
 - OpenAi - ChatGPT 4/3/2/1
 - Firebase
